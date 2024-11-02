@@ -1,0 +1,23 @@
+.menu{}
+.menu ul {}
+.menu ul li{
+	padding: 0px 20px;
+}
+.menu ul li a{
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+
+}
+.features{}
+.f_title{}
+.f_title h3 {}
+.f_title p{}
+.s_card{}
+.f_icon{
+	text-align: center;
+}
+.f_icon i{
+	font-size: 50px;
+
+}
